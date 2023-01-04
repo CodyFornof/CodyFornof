@@ -11,7 +11,7 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=CodyFornof.CodyFornof" />
 
 
-[![Coding Time](https://img.shields.io/badge/code%20time-00:05-blue.svg)](https://wakatime.com/@CodyFornof)
+[![Coding Time](https://img.shields.io/badge/code%20time-00%3A05-blue.svg)](https://wakatime.com/@CodyFornof)
 [![Profile Views](https://img.shields.io/badge/profile%20views-%E2%89%A5%200-blue.svg)](https://github.com/CodyFornof)
 [![Lines Written](https://img.shields.io/badge/lines%20written-%E2%89%A5%200-blue.svg)](https://github.com/CodyFornof)
 
