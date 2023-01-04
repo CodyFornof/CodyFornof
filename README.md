@@ -10,6 +10,10 @@
 </a>
 <img src="https://visitor-badge.glitch.me/badge?page_id=CodyFornof.CodyFornof" />
 
+[![WakaTime Code Time](https://img.shields.io/badge/code%20time-WakaTime-blue.svg)](https://wakatime.com/@CodyFornof)
+[![Profile Views](https://img.shields.io/badge/dynamic/json.svg?label=profile%20views&url=https%3A%2F%2Fapi.github.com%2Fusers%2FCodyFornof%2Fprofile&query=$.views&colorB=blue)](https://github.com/CodyFornof)
+[![Lines Written](https://img.shields.io/badge/dynamic/json.svg?label=lines%20written&url=https%3A%2F%2Fapi.github.com%2Fusers%2FCodyFornof%2Fprofile&query=$.public_repositories+%2B+$.followers&colorB=blue)](https://github.com/CodyFornof)
+
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@32130c20-64f0-4429-902f-883d1ba0450d/7709a231-d0e2-4e50-a285-da5fdefd2257.png" /></a>
 
 <!--START_SECTION:waka-->
