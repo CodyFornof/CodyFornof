@@ -8,6 +8,8 @@
 <a href="https://leetcode.com/CodyFornof/">
   <img align="left" alt="Cody Fornof's Leetcode" width="22px" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" />
 </a>
+
+<br>
 <br>
 
 [![Coding Time](https://img.shields.io/badge/code%20time-00%3A05-blue.svg)](https://wakatime.com/@CodyFornof)
