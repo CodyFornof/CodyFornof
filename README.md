@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://visitor-badge.glitch.me/badge?page_id=CodyFornof.CodyFornof"></a>
+<img src="https://visitor-badge.glitch.me/badge?page_id=CodyFornof.CodyFornof" />
 ![App Screenshot]((https://visitor-badge.glitch.me/badge?page_id=CodyFornof.CodyFornof))
 (https://visitor-badge.glitch.me/badge?page_id=CodyFornof.CodyFornof
 
