@@ -5,8 +5,11 @@
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="https://visitor-badge.glitch.me/badge?page_id=CodyFornof.CodyFornof"></a>
 ![App Screenshot]((https://visitor-badge.glitch.me/badge?page_id=CodyFornof.CodyFornof))
 (https://visitor-badge.glitch.me/badge?page_id=CodyFornof.CodyFornof
+
+https://visitor-badge.glitch.me/badge?page_id=CodyFornof.CodyFornof
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@32130c20-64f0-4429-902f-883d1ba0450d/7709a231-d0e2-4e50-a285-da5fdefd2257.png" /></a>
 
