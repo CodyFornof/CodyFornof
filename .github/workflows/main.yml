@@ -11,7 +11,7 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: CodyFornof/waka-readme@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: waka_f917cb2e-39f6-4dee-b9c3-2f90a6f60045
           GH_TOKEN: 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
