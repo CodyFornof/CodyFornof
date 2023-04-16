@@ -1,7 +1,4 @@
 ### Cody Fornof 🧸
-<a href="https://twitter.com/Cody_James8">
-  <img align="left" alt="Cody Fornof's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/cody-fornof-47975a198/">
   <img align="left" alt="Cody Fornof's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
