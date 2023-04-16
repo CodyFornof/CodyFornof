@@ -13,7 +13,6 @@
 <br>
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=CodyFornof.CodyFornof" />
-[![Lines Written](https://img.shields.io/badge/lines%20written-%E2%89%A5%200-blue.svg)](https://github.com/CodyFornof)
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@32130c20-64f0-4429-902f-883d1ba0450d/7709a231-d0e2-4e50-a285-da5fdefd2257.png" /></a>
 
