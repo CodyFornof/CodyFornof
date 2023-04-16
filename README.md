@@ -1,4 +1,7 @@
 ### Cody Fornof 🧸
+<a href="https://twitter.com/Cody_James8">
+  <img align="left" alt="Cody Fornof's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
 <a href="https://www.linkedin.com/in/cody-fornof-47975a198/">
   <img align="left" alt="Cody Fornof's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -9,7 +12,6 @@
 <br>
 <br>
 
-[![Coding Time](https://img.shields.io/badge/code%20time-00%3A05-blue.svg)](https://wakatime.com/@CodyFornof)
 <img src="https://visitor-badge.glitch.me/badge?page_id=CodyFornof.CodyFornof" />
 [![Lines Written](https://img.shields.io/badge/lines%20written-%E2%89%A5%200-blue.svg)](https://github.com/CodyFornof)
 
