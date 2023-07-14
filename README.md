@@ -4,7 +4,7 @@
 
 ### ⚡️ A quick introduction
 
-- 🔭 I’m currently working at [Stria](https://www.stria.com) with their Cloud Solutions Team.
+- 🔭 I’m currently apart of [Spaulding Ridge]([https://www.stria.com](https://www.spauldingridge.com/)) working with their Legal Operations Team.
 - 🌱 I’m currently learning React Native. 
 - 💼 I'm open to freelancing projects.
 
