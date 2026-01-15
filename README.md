@@ -2,17 +2,6 @@
     <img src="https://i.ibb.co/9ccCHCy/output-seotoolscentre.png" alt="output-seotoolscentre" border="0">
 </p>
 
-### ⚡️ A quick introduction
-
-- 🔭 I’m currently apart of [Spaulding Ridge]([https://www.stria.com](https://www.spauldingridge.com/)) working with DocuSign CLM.
-- 🌱 I’m currently learning React Native. 
-- 💼 I'm open to freelancing projects.
-
----    
-
-
-### ❤️ Donate to my favorite charities
-
 <p>
     <a href="https://www.compassion.com/"><img height="28" width="110" src="https://cdn.shortpixel.ai/spai/w_935+q_lossy+ret_img+to_webp/https://5by5agency.com/content/uploads/2020/03/Compassion-logo-block.jpg" alt="Compassion" border="0"></a>
     <a href="https://support.activeminds.org/give/295403/#!/donation/checkout"><img height="28" width="110" src="https://i.ibb.co/9Y1Jmdg/download.png" alt="Active Minds" border="0"></a>
